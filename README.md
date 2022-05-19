@@ -14,7 +14,8 @@ In this task, our aim is to detect 2 objects in the provided image, which are:
 → person
 → car
 
-![image](https://user-images.githubusercontent.com/31015605/169039299-235bb101-9c48-4e42-811b-d1e91fe3393d.png)
+![prediction_output11](https://user-images.githubusercontent.com/31015605/169228260-d6a64290-2ef1-4bec-aea0-a028ca85448e.png)
+
 
 About the model
 
@@ -84,9 +85,13 @@ A learning curve is a plot of model learning performance over experience or time
 Learning curves are a widely used diagnostic tool in machine learning for algorithms that learn from a training dataset incrementally. The model can be evaluated on the training dataset and on a hold out validation dataset after each update during training and plots of the measured performance can be created to show learning curves.
 Below are the learning curves for the trained model:
 
+
 ![image](https://user-images.githubusercontent.com/31015605/169039546-7a74f723-c3ea-4b1d-93b7-a06811528de9.png)
 
 Output
+
+![prediction_output15](https://user-images.githubusercontent.com/31015605/169228664-af7f62e5-1dc9-4df9-8bd3-c6d74d24090f.png)
+
 
 ![image](https://user-images.githubusercontent.com/31015605/169039589-75ba8c10-bf6e-45d5-84bc-fce4cc5ed7cc.png)
 
